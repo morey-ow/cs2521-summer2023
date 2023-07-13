@@ -1,35 +1,36 @@
-## SUNY Old Westbury, Summer 2023
+#### SUNY Old Westbury, Summer 2023
 
-# CS 2521 : Scientific Programming in Python 
--
-### Syllabus 
--
+CS 2521: Scientific Programming in Python 
+---
+#### Syllabus 
+---
 
-(Last revised: July 10, 2023)
+(DRAFT, Last revised: July 13, 2023)
 
--
+----
 
 
 **Instructor**: Yogesh More
 **Email:**  morey@oldwestbury.edu
 **Class meeting times:**  5:50 pm - 8:05 pm MTWR on  Zoom, July 17-August 17
 
--
-
-#**Zoom link**: 
+###**Zoom link for class meetings**: 
 [https://suny-ow-edu.zoom.us/j/4330131817?pwd=OWdjMGd6R0pPZkpvb1hSOEd2WDZhZz09
 ](https://suny-ow-edu.zoom.us/j/4330131817?pwd=OWdjMGd6R0pPZkpvb1hSOEd2WDZhZz09)
 
--
-**Office Hours:** 
-- via Zoom, see availability and make appointment at [https://www.calendly.com/morey-ow](https://www.calendly.com/morey-ow) 
 
--
+
+
+My plan is to lecture for the first 30-45 mins of each class session, and then the rest of the time give you time to work through the code in the textbook. I plan to put you in individual breakout rooms, and the circulate from room to room assisting each individual student.
+
+**Office Hours:** 
+ via Zoom, see availability and make appointment at [https://www.calendly.com/morey-ow](https://www.calendly.com/morey-ow) 
+
 
 **Course description:** 
 
 A fast-paced introduction to features of Python with an eye toward scientific and data analysis applications. Basic data structures and algorithms, data abstractions, and object-oriented programming. 
-Introduction to numpy and pandas. Time permitting, we will introduce additional miscellaneous topics such as deep learning, natural language processing, large language models, etc.
+Introduction to Python libraries such as Numpy and Pandas, maybe PyTorch. Time permitting, we will introduce additional miscellaneous topics such as deep learning, natural language processing, large language models, etc.
 
 
 **Course webpage** 
@@ -43,12 +44,12 @@ Introduction to numpy and pandas. Time permitting, we will introduce additional 
     
 -   Explain simple examples of searching and sorting algorithms (e.g. bubble sort, insert sort, quicksort)
     
--   Explain basic concepts in machine learning (e.g. approximating  function)
+-   Explain basic concepts in machine learning
     
 
 **Textbook:** 
 
-_The Python Workshop_ by Corey Wade, Andrew Bird, et al.. Packt Publishing.
+_The Python Workshop_ by Corey Wade, Andrew Bird, et al. Packt Publishing.
 
 (Either 1st or 2nd edition is fine since they are almost the same; the publisher has a link to the 1st edition here [https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf](https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf))
 
@@ -67,29 +68,35 @@ The pace of the course fairly rapid, each day we cover what in a semester versio
 For visualizing code execution:
 https://pythontutor.com/
 
-Leetcode: https://www.leetcode.com
-
-According to the https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
-
-> On LeetCode, you can use tutorials and study plans to learn fundamental and advanced data structures and algorithms, compete in contests, use guides to prepare for top companies, exercise your problem solving skills by solving real interview questions, and much more. 
-
 
 Python for Data Analysis, 3E by Wes McKinney (creator of Pandas):
 https://wesmckinney.com/book/
 
 Kaggle: https://www.kaggle.com
 
+A bit advanced for this course, but just so you hear about it for later on your studies: Leetcode: https://www.leetcode.com
+
+
+> On LeetCode, you can use tutorials and study plans to learn fundamental and advanced data structures and algorithms, compete in contests, use guides to prepare for top companies, exercise your problem solving skills by solving real interview questions, and much more.
+
+
 
 **Course Website**: Brightspace/D2L: [mylearning.suny.edu](https://mylearning.suny.edu)
 
-## Before the course begins
+#### Before the course begins
 Before the course starts, I invite you to attempt the following:
+- Email me at morey@oldwestbury.edu telling me a bit about your interests, reasons for taking the course, coding background
 - install a code editor such as Visual Studio Code
 - install Python and pyenv (to manage environments) and Python (any version 3.10+ is fine, for example 3.11.4), as described here:
 	- On Windows: [https://youtu.be/HTx18uyyHw8](https://youtu.be/HTx18uyyHw8)
 	- On MacOS/Linux: [https://youtu.be/31WU0Dhw4sk](https://youtu.be/31WU0Dhw4sk)
 
-If you experience difficulties, do not worry, you can just use for instance Google Colab notebook for now and figure it out later.
+If you experience difficulties with this, do not worry as it is not essential at this point and you can just use for instance Google Colab notebook (https://colab.research.google.com/) for now and figure this out later.
+
+### Class Meetings
+**Class meeting times:**  5:50 pm - 8:05 pm MTWR on  Zoom, July 17-August 17
+
+My plan for a typical session is to introduce the material for the first 30-45 mins, and then the rest of the session give you time to work through the code in the textbook. I plan to put you in individual breakout rooms, and then circulate from room to room assisting each individual student.
 ___
 # Schedule
 (Tentative)
@@ -162,8 +169,11 @@ Chapter 11 Machine Learning
 ### Tuesday, August 9, 2022
 Chapter 11 Machine Learning
 ### Wednesday, August 10, 2022
-### Thursday, August 11, 2022
+Chapter 12 (2nd edition) Deep Learning
 
+### Thursday, August 11, 2022
+Chapter 12 (2nd edition) Deep Learning
+(I can provide an excerpt of this chapter in case you just have the first edition)
 ___
 ## Week 5 TDB
 ### Monday, August 15, 2022
@@ -175,22 +185,30 @@ ___
 
 
 
-## Grading
-|               |     |
+## Assignments/Grading
+
+(UNDER CONSTRUCTION)
+|               | Points  |
 | -------------: | ------ |
-| Homework      | 30  |
-| Participation | 10  |
-| Exam 1        | 20  |
-| Exam 2        | 20  |
-| Exam 3         |20|
-
-**Late work IS accepted. You can also resubmit graded work to be regraded (without penalty).** The point is to learn, not gotcha grading. (The only hard deadline is the end of the course August 18, 2022)
-
-
-I avoid giving timed written exams (unless requested by a student for transfer credit purposes). Instead I have started doing something different - and likely more time consuming and formative - students are given a list of problems and they have to record a video *explaining*  
+| Participation | 40  |
+| Week 1 Video  | 10  |
+| Week 2 Video  | 10  |
+| Week 3 Video  |10 |
+| Week 4 Video  | 10|
+| Final Exam |  20 | 
 
 
- If you can convince me that you can understand and explain most of the material, then happy to give you an appropriate grade, e.g. A. 
+For various reasons, I have abandoned giving timed written exams, for better or worse. 
+
+**Weekly Videos**
+At the end of each week, for weeks 1-4 (the course has 5 weeks), record a video 10-15 min instructional video, aimed towards your classmates, teaching them some things you learned.
+
+**Participation**
+You need to attend and be on task for all class sessions. When I visit breakout room, you should be able to share screen and show me a reasonable attempt at engaging with the material.
+
+** Final Exam **
+
+
 ## Technology requirements
 This course is taught remotely and synchronously via Zoom, and nothing beyond a typical internet-connected computer obviously required for any such a course is neccessary.  Specifically, you will need
  - some sort of computer (desktop, laptop) capable of running the following software:
@@ -198,8 +216,6 @@ This course is taught remotely and synchronously via Zoom, and nothing beyond a 
 - Python
 - Visual Studio Code (or similar editor)
 - reliable access to the internet (for synchronous Zoom sessions,  access to Google Colab)
-
-- some way to submit handwritten work (e.g writing on a electronic tablet or  by taking a photo of the paper containing the handwriting and uploading it)
 
 
 
@@ -234,6 +250,5 @@ Dean of Students and Deputy Title IX Coordinator
 Student Union Suite 303
 Phone: 516-876-3067
 
-**The syllabus is subject to change at the instructor's discretion to accommodate the needs of the class.**
+*The syllabus is subject to change at the instructor's discretion to accommodate the needs of the class.*
 
-** This syllabus is subject to change.**   
