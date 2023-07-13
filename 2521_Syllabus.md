@@ -2,7 +2,9 @@
 
 CS 2521: Scientific Programming in Python 
 ---
-#### Syllabus 
+
+### Syllabus 
+
 ---
 
 (DRAFT, Last revised: July 13, 2023)
@@ -14,7 +16,7 @@ CS 2521: Scientific Programming in Python
 **Email:**  morey@oldwestbury.edu
 **Class meeting times:**  5:50 pm - 8:05 pm MTWR on  Zoom, July 17-August 17
 
-###**Zoom link for class meetings**: 
+### **Zoom link for class meetings**: 
 [https://suny-ow-edu.zoom.us/j/4330131817?pwd=OWdjMGd6R0pPZkpvb1hSOEd2WDZhZz09
 ](https://suny-ow-edu.zoom.us/j/4330131817?pwd=OWdjMGd6R0pPZkpvb1hSOEd2WDZhZz09)
 
@@ -44,14 +46,14 @@ Introduction to Python libraries such as Numpy and Pandas, maybe PyTorch. Time p
     
 -   Explain simple examples of searching and sorting algorithms (e.g. bubble sort, insert sort, quicksort)
     
--   Explain basic concepts in machine learning
+-   Explain basic concepts/techniques in data science and/or machine learning
     
 
 **Textbook:** 
 
 _The Python Workshop_ by Corey Wade, Andrew Bird, et al. Packt Publishing.
 
-(Either 1st or 2nd edition is fine since they are almost the same; the publisher has a link to the 1st edition here [https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf](https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf))
+(Either the 1st or 2nd edition is fine since they are almost the same; the publisher has a link to the 1st edition here [https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf](https://security.packt.com/wp-content/uploads/2023/06/9781839218859-THE_PYTHON_WORKSHOP.pdf))
 
 Here is the Github containing the code examples for the book:
 [https://github.com/PacktPublishing/The-Python-Workshop-Second-Edition](https://github.com/PacktPublishing/The-Python-Workshop-Second-Edition)
@@ -65,23 +67,29 @@ The pace of the course fairly rapid, each day we cover what in a semester versio
 
 
 **Supplementary Resources:**
+*For Learning Python basics:*
 For visualizing code execution:
 https://pythontutor.com/
 
+*For Data Science* 
 
 Python for Data Analysis, 3E by Wes McKinney (creator of Pandas):
 https://wesmckinney.com/book/
 
 Kaggle: https://www.kaggle.com
 
-A bit advanced for this course, but just so you hear about it for later on your studies: Leetcode: https://www.leetcode.com
 
+*For Algorithms, Data Structures, etc.:*
+Leetcode: https://www.leetcode.com
+(A bit advanced for this course, but just so you hear about it for later on your studies:)
 
 > On LeetCode, you can use tutorials and study plans to learn fundamental and advanced data structures and algorithms, compete in contests, use guides to prepare for top companies, exercise your problem solving skills by solving real interview questions, and much more.
 
 
 
-**Course Website**: Brightspace/D2L: [mylearning.suny.edu](https://mylearning.suny.edu)
+**Course Website**: 
+
+Brightspace/D2L: [mylearning.suny.edu](https://mylearning.suny.edu)
 
 #### Before the course begins
 Before the course starts, I invite you to attempt the following:
@@ -121,15 +129,17 @@ Chapter 2: Python (Built-In) Data Structures:
 
 
 ### Wednesday, July 19, 2022
-(I encourage you to download VSCode before starting this chapter)
+
 Chapter 3 Programs, Algorithms, and Functions
 ### Thursday, July 20, 2022
 
 Chapter 3 Programs, Algorithms, and Functions
+
 remember pythontutor.com
 ## Week 2 More Python
 ### Monday, July 25, 2022
 Chapter 3 Programs, Algorithms, and Functions
+
 Explore https://www.leetcode.com
 
 ### Tuesday, July 26, 2022
@@ -151,9 +161,11 @@ Chapter 7 Becoming Pythonic:
 ### Tuesday, August 2, 2022
 Chapter 8 Software Development
 
+
 [Git and GitHub 0 Experience to Professional in 1 tutorial (YouTube)](https://youtu.be/hrTQipWp6co)
 ### Wednesday, August 3, 2022
 (skip Chapter 9)
+
 Chapter 10 Data Analytics with Pandas and Numpy
 
 
@@ -206,8 +218,8 @@ At the end of each week, for weeks 1-4 (the course has 5 weeks), record a video 
 **Participation**
 You need to attend and be on task for all class sessions. When I visit breakout room, you should be able to share screen and show me a reasonable attempt at engaging with the material.
 
-** Final Exam **
-
+**Final Exam**
+One-on-one oral exam
 
 ## Technology requirements
 This course is taught remotely and synchronously via Zoom, and nothing beyond a typical internet-connected computer obviously required for any such a course is neccessary.  Specifically, you will need
