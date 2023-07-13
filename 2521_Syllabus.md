@@ -245,7 +245,7 @@ Here are some excerpts from that policy:
 >-   changing any author's words slightly and presenting them as one's own
 >-   turning in any assignment containing material written by someone else (including tutor or friend); buying work and submitting it as one's own
 
-Know what plagiarism is and how to avoid it; for guidance see Raimes or any other college writing handbook. 
+>  Know what plagiarism is and how to avoid it; for guidance see Raimes or any other college writing handbook. 
 
 ## Accommodations for students with disabilities 
 
