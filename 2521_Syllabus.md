@@ -7,7 +7,7 @@ CS 2521: Scientific Programming in Python
 
 ---
 
-(DRAFT, Last revised: July 13, 2023)
+(Last revised: July 13, 2023)
 
 ----
 
@@ -23,7 +23,7 @@ CS 2521: Scientific Programming in Python
 
 
 
-My plan is to lecture for the first 30-45 mins of each class session, and then the rest of the time give you time to work through the code in the textbook. I plan to put you in individual breakout rooms, and the circulate from room to room assisting each individual student.
+My plan is to lecture for the first 30-45 mins of each class session, and then the rest of the time give you time to work through the code in the textbook. I plan to put you in individual breakout rooms, and the circulate from room to room assisting each individual student. 
 
 **Office Hours:** 
  via Zoom, see availability and make appointment at [https://www.calendly.com/morey-ow](https://www.calendly.com/morey-ow) 
@@ -89,7 +89,13 @@ Leetcode: https://www.leetcode.com
 
 **Course Website**: 
 
+For submitting work: 
 Brightspace/D2L: [mylearning.suny.edu](https://mylearning.suny.edu)
+
+Course Material:
+https://github.com/morey-ow/cs2521-summer2023
+
+
 
 #### Before the course begins
 Before the course starts, I invite you to attempt the following:
@@ -188,6 +194,7 @@ Chapter 12 (2nd edition) Deep Learning
 (I can provide an excerpt of this chapter in case you just have the first edition)
 ___
 ## Week 5 TDB
+
 ### Monday, August 15, 2022
 
 ### Tuesday, August 16, 2022
@@ -199,7 +206,6 @@ ___
 
 ## Assignments/Grading
 
-(UNDER CONSTRUCTION)
 |               | Points  |
 | -------------: | ------ |
 | Participation | 40  |
@@ -213,16 +219,16 @@ ___
 For various reasons, I have abandoned giving timed written exams, for better or worse. 
 
 **Weekly Videos**
-At the end of each week, for weeks 1-4 (the course has 5 weeks), record a video 10-15 min instructional video, aimed towards your classmates, teaching them some things you learned.
+The best way to learn is to teach. At the end of each week, for weeks 1-4 (the course has 5 weeks), record a video 10-15 min instructional video, aimed towards your classmates, teaching them some things you learned.
 
 **Participation**
-You need to attend and be on task for all class sessions. When I visit breakout room, you should be able to share screen and show me a reasonable attempt at engaging with the material.
+You need to attend and be on task for all class sessions (but if there are one or two sessions you need to miss for legitimate reasons, that's fine, just email me beforehand). When I visit you in the individual breakout rooms, you should be able to share your screen and show me a reasonable attempt at engaging with the material.
 
 **Final Exam**
-One-on-one oral exam
+One-on-one oral exam scheduled sometime during the last week
 
 ## Technology requirements
-This course is taught remotely and synchronously via Zoom, and nothing beyond a typical internet-connected computer obviously required for any such a course is neccessary.  Specifically, you will need
+This course is taught remotely and synchronously via Zoom, and nothing beyond a typical internet-connected computer that is obviously required for any such a course is neccessary.  Specifically, you will need
  - some sort of computer (desktop, laptop) capable of running the following software:
 - Zoom
 - Python
@@ -246,6 +252,25 @@ Here are some excerpts from that policy:
 >-   turning in any assignment containing material written by someone else (including tutor or friend); buying work and submitting it as one's own
 
 >  Know what plagiarism is and how to avoid it; for guidance see Raimes or any other college writing handbook. 
+
+
+### Course Policy on Usage of AI Chatbots or Codelike ChatGPT, Bard, Bing, GitHub Copilot, etc. 
+
+AI Chatbots can be helpful in learning how to code. 
+
+**AI Chatbots some times give inaccurate, incomplete, outdated, or outright false responses in an *extremely confident* tone, so use with caution and DO NOT BLINDLY TRUST THEM!** 
+
+
+That being said, I allow their use in a limited and appropriate way - namely as a tool to help you learn. However they can also be used as a tool to avoid learning, to avoid engaging with the material, etc., and you are cheating yourself if you use tools this way. 
+
+Here are some appropriate ways to use them:
+-  if you can't resolve an error message, you can try asking an AI Chatbot to explain it
+- You can ask it to test your understanding of course material: e.g. ask it to make up quiz questions on concepts you just learned
+- Ask it to explain something (e.g. a procedure such as how to install Python or Visual Studio Code, or a concept such as 'for loops')
+
+
+**For this course, you must understand and be able to explain (at an appropriate level) any code you submit, whether code is your own or you get it from classmate, internet, textbook, AI chatbots, etc.** 
+
 
 ## Accommodations for students with disabilities 
 
