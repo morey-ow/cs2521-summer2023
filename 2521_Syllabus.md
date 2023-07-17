@@ -71,6 +71,10 @@ The pace of the course fairly rapid, each day we cover what in a semester versio
 For visualizing code execution:
 https://pythontutor.com/
 
+Python Notes for Professionals book
+700+ pages of encyclopedic coverage of Python standard library and many popular libaries
+https://goalkicker.com/PythonBook/
+
 *For Data Science* 
 
 Python for Data Analysis, 3E by Wes McKinney (creator of Pandas):
@@ -80,6 +84,10 @@ Kaggle: https://www.kaggle.com
 
 
 *For Algorithms, Data Structures, etc.:*
+
+Algorithms Notes for Professionals book
+https://goalkicker.com/AlgorithmsBook/
+
 Leetcode: https://www.leetcode.com
 (A bit advanced for this course, but just so you hear about it for later on your studies:)
 
